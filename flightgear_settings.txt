@@ -1,0 +1,3 @@
+--generic=serial,in,30,com4,9600,fg_in_protocol
+--generic=socket,out,1000,127.0.0.1,5555,udp,myprotocol
+0,5
